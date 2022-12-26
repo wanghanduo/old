@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>50bdcccff9764ebcf384333dc3e003a8</dc:title>
+    <meta name="calibre:timestamp" content="2022-12-26T03:38:16.261077+00:00"/>
+    <dc:language>en</dc:language>
+    <dc:creator>Unknown</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">481734d6-e866-4f27-a1d2-edbd12f308de</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="index_split_000.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+</package>
