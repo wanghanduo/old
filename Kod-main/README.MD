@@ -1,6 +1,5 @@
 # KodExplorer
 
-> #### 更新到 kodbox:  [https://github.com/kalcaddle/kodbox](https://github.com/kalcaddle/kodbox)
 > ##### [Download](https://kodcloud.com/download/) | [Demo](https://demo.kodcloud.com/)  
 > *该项目处于维护阶段,不再开发新功能.推荐使用全新设计升级产品kodbox*
 
